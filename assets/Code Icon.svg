@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="53px" height="53px" viewbox="0 0 53 53" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0" y1="0" x2="1" y2="1" id="gradient_1">
+      <stop offset="0.073275864" stop-color="#90F890" />
+      <stop offset="0.08399999" stop-color="#83E399" />
+      <stop offset="1" stop-color="#0000FF" />
+    </linearGradient>
+    <linearGradient x1="0" y1="0" x2="1" y2="1" id="gradient_2">
+      <stop offset="0.073275864" stop-color="#90F890" />
+      <stop offset="0.3641724" stop-color="#83E399" />
+      <stop offset="1" stop-color="#0000FF" />
+    </linearGradient>
+  </defs>
+  <g id="Icon" transform="translate(1.5 1.5)">
+    <path d="M0 0L50 0L50 50L0 50L0 0Z" id="artboard_1" fill="#FFFFFF" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+    <path d="M8.48528 0L0 8.48528" transform="translate(4.0416126 16.600006)" id="Line" fill="url(#gradient_1)" fill-rule="evenodd" stroke="url(#gradient_2)" stroke-width="3" stroke-linecap="square" />
+    <path d="M0 0L8.48528 8.48528" transform="translate(4.000025 25.176884)" id="Line-2" fill="url(#gradient_1)" fill-rule="evenodd" stroke="url(#gradient_2)" stroke-width="3" stroke-linecap="square" />
+    <path d="M8.48528 0L0 8.48528" transform="matrix(-1 0 0 1 45.4853 16.600006)" id="Line-3" fill="url(#gradient_1)" fill-rule="evenodd" stroke="url(#gradient_2)" stroke-width="3" stroke-linecap="square" />
+    <path d="M0 0L8.48528 8.48528" transform="matrix(-1 0 0 1 45.491714 25.199986)" id="Line-4" fill="url(#gradient_1)" fill-rule="evenodd" stroke="url(#gradient_2)" stroke-width="3" stroke-linecap="square" />
+    <path d="M25.5 0L0 25.5" transform="translate(12.2 12.299999)" id="Line" fill="url(#gradient_1)" fill-rule="evenodd" stroke="url(#gradient_2)" stroke-width="3" stroke-linecap="square" />
+  </g>
+</svg>
