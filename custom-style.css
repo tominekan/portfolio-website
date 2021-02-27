@@ -1,0 +1,29 @@
+.main-intro {
+    font-size: 100px;
+    text-align: center;
+    width: 100%;
+}
+
+article {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-links {
+    display: block;
+    text-align: center;
+}
+
+.text-body {
+    width: 75%;
+}
+
+nav {
+    width: 25%;
+    background-color: whitesmoke;
+}
+
+
+footer {
+    background-color: #5c616c;
+}
