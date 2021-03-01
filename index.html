@@ -5,31 +5,36 @@
     <title>Tomi Adenekan</title>
 
     <!--Flat Remix Theme-->
-    <link rel="stylesheet" href="flat-remix.min.css">
+    <link rel="stylesheet" href="flat-remix.css">
 
     <!--Custom Styling (layouts)-->
     <link rel="stylesheet" href="custom-style.css">
 </head>
 <body>
     <header>
-        <h1 class="main-intro">Tomi Adenekan</h1>
+        <h1 class="main-intro" tabindex="0">Tomi Adenekan</h1>
         <hr>
     </header>
+
     <article>
         <nav>
-            <a href="#" class="nav-links">About</a>
-            <a href="#" class="nav-links">Projects</a>
-            <a href="#" class="nav-links">Contact</a>
+            <a href="index.html" class="nav-links current-page">Home</a>
+            <a href="about.html" class="nav-links">About</a>
+            <a href="projects.html" class="nav-links">Projects</a>
+            <a href="contact.html" class="nav-links">Contact</a>
         </nav>
 
         <div class="text-body">
-            <pre class="actual-text">
-                Him
-            </pre>
+            <h3 class="centered">Home</h3>
+            <p class="centered selectable">This is my personal website. Version 2.0.</p>
+            <h3 class="centered selectable">Changes</h3>
+            <ul class="centered selectable">
+                <li>Changed Color Scheme</li>
+                <li>Removed Custom Icons (which were ugly)</li>
+                <li>Expanded Site to Multiple Pages</li>
+                <li>Used Flat Remix Theme (instead of my ugly custom theme)</li>
+            </ul>
         </div>
     </article>
-    <footer>
-        Credits: Flat Remix for ui theme
-    </footer>
 </body>
 </html>
